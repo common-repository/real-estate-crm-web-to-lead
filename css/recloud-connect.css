@@ -1,0 +1,70 @@
+.widget_recloud li {
+	float: left;
+}
+
+.rside-block {
+/*	float: left; */
+	 overflow: hidden;
+	 width: 100%;
+	
+}
+
+.recloud_connect_display {
+	float: left;
+	width: 100%;
+}
+
+.recloud-connect-bio {
+	float: left;
+	width: 100%;
+}
+
+.recloud-connect-bio .agent-name {
+    color: #3D3D3D;
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.recloud-connect-bio .agent-bio {
+	float: left;
+	width: 160px;
+}
+
+.recloud-connect-bio-img {
+    float: left;
+    margin-right: 10px;
+    margin-top: 8px;
+}
+
+.recloud-connect-form {
+	float: left;
+	width: 100%;
+}
+
+.rside-textfield {
+    height: 16px;
+    line-height: 16px;
+    width: 94%;
+}
+
+.rside-textfield, .rside-textarea {
+    background-color: #FFFFFF;
+    border: 1px solid #A8B7C9;
+    color: #BCCBD3;
+    display: block;
+    font-size: 12px;
+    margin: 10px auto;
+    padding: 6px 10px;
+    width: 225px;
+}
+
+.recloud-connect-submit {
+	width: 160px;
+	margin: 10px auto 0;
+}
+
+.recloud_after_form_wrapper p {
+	font-weight: bold;
+}

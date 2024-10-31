@@ -1,0 +1,11 @@
+input.text_option {
+	width: 140px;
+}
+
+input.text_option.medium {
+	width: 200px;
+}
+
+input.text_option.long {
+	width: 260px;
+}
